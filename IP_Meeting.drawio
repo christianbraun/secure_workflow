@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T13:31:05.230Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="fagHXdTV5PYRSO8JP66N" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T13:46:54.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="Eohy1zDBFqoOOkDAm1ZO" version="14.4.7" type="github">
   <diagram id="RHNh8EOpWiipexaSZahh" name="Page-1">
-    <mxGraphModel dx="1604" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1321" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-67" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="940" y="187.5" width="420" height="192.5" as="geometry" />
+        </mxCell>
         <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="520" y="620" width="380" height="210" as="geometry" />
         </mxCell>
@@ -229,6 +232,36 @@
         </mxCell>
         <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-66" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="1230" y="690" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-68" value="Solar Algo Facade" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="960" y="200" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-69" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;arcSize=6;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="960" y="241" width="150" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-70" value="Solar Algo Facade&lt;br&gt;Python --&amp;gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="966" y="246" width="124" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-80" value="Generated SQL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="982.5" y="268" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-83" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2EB9Xu1Lv8P-kPe1u6SY-80" target="2EB9Xu1Lv8P-kPe1u6SY-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="690" as="sourcePoint" />
+            <mxPoint x="1090" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-78" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="251.5" width="110" height="108.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-81" value="PostGIS&lt;br&gt;-&lt;br&gt;functional&lt;br&gt;extension" style="rounded=1;whiteSpace=wrap;html=1;align=center;arcSize=6;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="215.5" width="60" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-88" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;rotation=0;flipH=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="230" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2EB9Xu1Lv8P-kPe1u6SY-79" value="PostgresDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1248.75" y="303.5" width="92.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
